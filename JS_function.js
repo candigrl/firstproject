@@ -29,7 +29,7 @@ function addThem(a, B){
     return a * b;
 }
  
-functiom myFunction(name) {
+function myFunction(name) {
 return "Hello " + name;
 }
 
@@ -37,6 +37,6 @@ var result = addThem(1,4);
 console.log(myFunction("morgan"));
 console.log(result);
 
-(function({
+(function(){
     console.log("fancy");
 })();
