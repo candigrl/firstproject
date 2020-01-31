@@ -28,12 +28,24 @@ else{
 // if counter % by 2= 0 correct
 if (counter !=2346 && counter !=43){
     console.log("false");
+}
 if (counter !=54 || counter !=65){
     console.log("false");
+}
 if (counter !=2754 && counter !=2754){
      console.log("false");
+    }
   if (counter !=1956 || counter !=1956){
-      
+
+  }
+  if (counter !=2040){
+      if (counter !=1012){
+          if (counter !=1111);}
+          if (counter!=2040 && 1012 && 1111);}
+          console.log("true");
+          
+
+      }
   }
   
 
