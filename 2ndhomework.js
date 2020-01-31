@@ -53,6 +53,18 @@ while (counter<=50) {
     console.log(counter);
     counter += 2;
 }
+
+function crazy(start, end) {
+    for(var i=start; i <=end; i++){
+        console.log(i);
+    }
+}
+
+crazy(6, 15);
+(function (){
+    console.log("prissie");
+})(prissie);
+
   
   
 
