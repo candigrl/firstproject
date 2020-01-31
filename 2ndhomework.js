@@ -43,10 +43,17 @@ if (counter !=2754 && counter !=2754){
           if (counter !=1111);}
           if (counter!=2040 && 1012 && 1111);}
           console.log("true");
-          
 
-      }
-  }
+
+var counter =1;
+// counter = 1;
+console.log(counter);
+
+while (counter<=50) {
+    console.log(counter);
+    counter += 2;
+}
+  
   
 
   
