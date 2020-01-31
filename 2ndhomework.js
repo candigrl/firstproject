@@ -63,7 +63,17 @@ function crazy(start, end) {
 crazy(6, 15);
 (function (){
     console.log("prissie");
-})(prissie);
+})();
+function randomCheck(){
+    var userNum = document.getElementById('userInput').value;
+var random = 2;
+if (random == userNum){
+    console.log("success"); 
+
+}else {
+    console.log("wrong");
+}
+}
 
   
   
