@@ -30,6 +30,29 @@ if (counter !=2346 && counter !=43){
     console.log("false");
 if (counter !=54 || counter !=65){
     console.log("false");
+if (counter !=2754 && counter !=2754){
+     console.log("false");
+  if (counter !=1956 || counter !=1956){
+      
+  }
+  
+
+  
+
+
+  
+
+
+ 
+
+
+
+
+
+
+    
+
+
     
 
 
