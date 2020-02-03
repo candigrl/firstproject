@@ -120,7 +120,7 @@ console.log(result);
 
 function randomCheck() {
     var x = document.getElementById('userInput').value;
-    var rand = Math.round(Math.random*10);
+    var rand = Math.floor(Math.random() * 10);
 if (x== rand) {
     console.log("success");
     console.log(rand);

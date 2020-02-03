@@ -15,7 +15,7 @@ console.log(res);
 var inventory = [];
 function fillarray() {
     inventory["eggs"] = 10,
-    Inventory["butter"] = 10,
+    inventory["butter"] = 10,
     inventory["cheese"] = 10,
     inventory["bread"] = 10,
     inventory["cream"] = 10,
@@ -24,5 +24,5 @@ function fillarray() {
     inventory["fish"] = 10,
     inventory["spinach"] = 10,
     inventory["apples"] = 10,
-    inventory["bananas"] = 10,
+    inventory["bananas"] = 10
 }
