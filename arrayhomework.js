@@ -25,7 +25,4 @@ function fillarray() {
     inventory["spinach"] = 10,
     inventory["apples"] = 10,
     inventory["bananas"] = 10,
-
-
-
-inventory[]
+}
