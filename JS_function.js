@@ -40,3 +40,14 @@ console.log(result);
 (function(){
     console.log("fancy");
 })();
+
+function randomCheck() {
+    var x = document.getElementById('userInput').value;
+if (x== rand) {
+    console.log("success");
+} else {
+    console.log("try again");
+    console.log(rand);
+    console.log(x);
+}
+}
