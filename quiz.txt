@@ -1,0 +1,42 @@
+function greet(){
+    console.log('happybirthday');
+    function greet(){
+        console.log('happybirthday');
+
+    }
+}
+ greet(); void
+ greet();
+ function greet(){
+     console.log('happybirthday');
+ }
+function greet(){
+    console.log('happybirthday');
+}
+greet();
+function greet (){
+    console.log('priscilla, brown');
+    }
+greet()
+greet();
+function greet (priscilla, brown){
+    console.log('happybirthday, priscilla, brown')
+    greet('happybirthday priscilla, brown')=
+    'happybirthday' +'priscilla brown';
+
+}
+ let[];
+ let SelectEquiptment= [];
+ let SelectEquiptment= ['hammer, nails, screwdriver, wood, saw, drills,'];
+ console.log
+ 
+ arrays 
+ const todos =[
+     {
+         id: 1,
+         text: 'cook dinner'
+        ('isComplete')
+
+     }
+ ]
+

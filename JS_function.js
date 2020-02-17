@@ -128,6 +128,11 @@ if (x== rand) {
 } else {
     console.log("try again");
     console.log(rand);
+
+
+
+
+    
     console.log(x);
 }
 }
